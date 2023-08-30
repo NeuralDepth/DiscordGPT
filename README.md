@@ -152,8 +152,6 @@
 * Set the value of `LOGGING` in the `.env` to False
 
 ------
->  [**中文設置教學**](https://zero6992.github.io/2023/03/09/chatGPT-discord-bot-chinese/)
-------
 ## Commands
 
 * `/chat [message]` Chat with ChatGPT!
